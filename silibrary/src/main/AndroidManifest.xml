@@ -1,2 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.example.silibrary"/>
+          package="com.example.silibrary">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+</manifest>

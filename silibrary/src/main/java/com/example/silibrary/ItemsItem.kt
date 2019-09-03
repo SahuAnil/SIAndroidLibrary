@@ -1,0 +1,31 @@
+package com.example.silibrary
+
+data class ItemsItem(
+	val totalAssets: Any? = null,
+	val userName: String? = null,
+	val primaryEntityName: String? = null,
+	val publishedVersionNumber: Int? = null,
+	val assetId: Int? = null,
+	val secondaryEntityName: String? = null,
+	val duration: Any? = null,
+	val assetTypeId: Int? = null,
+	val titleAlias: String? = null,
+	val priEntDispName: String? = null,
+	val imageFileName: String? = null,
+	val assetListId: Int? = null,
+	val secondaryEntityRoleMapId: Int? = null,
+	val displayName: String? = null,
+	val createdBy: Int? = null,
+	val tags: Any? = null,
+	val fullName: String? = null,
+	val assetTitle: String? = null,
+	val imagePath: String? = null,
+	val updatedBy: Int? = null,
+	val secEntDispName: String? = null,
+	val shortDesc: String? = null,
+	val createdDate: String? = null,
+	val updatedDate: String? = null,
+	val authorId: Int? = null,
+	val publishedDate: String? = null,
+	val primaryEntityRoleMapId: Int? = null
+)
